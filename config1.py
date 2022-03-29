@@ -4,7 +4,7 @@ BOT_TOKEN = '5187853556:AAFu7KhfXjJLqGlwm_M8ySdlkeHQV7h_neQ'
 MAX_ZIP_SIZE = 98
 ACCES_USERS = ['nautaii', 'O_O1000', 'Soul_Octopus']
 CHAT_ID = '-1001666279733'
-URLMOODLE = 'http://eva.umcc.cu/posgrado/'
+URLMOODLE = 'https://moodle.uclv.edu.cu'
 CREDENTIALS = {'username':'alex01','password':'Perro@1234'}
 CACHE = {}
 
@@ -97,3 +97,4 @@ def createAccountCache(acc):
             CACHE[acc['username']] = {'userdata':{},'storage_size':0,'storage_current':0,'file_list':[],'credentials':{}}
 
 #createAccountsCache();
+
