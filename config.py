@@ -8,8 +8,8 @@ CHAT_ID = '-1001666279733'
 USUARIO = 'alex01'
 MOODLE_PASSWORD = 'Perro@1234'
 USUARIO_ID = 19770 #Tu id
-ZIP_MB = 249
-MOODLE_URL = 'https://evea.uh.cu'
+ZIP_MB = 398
+MOODLE_URL = 'https://moodle.uclv.edu.cu'
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
 GMAIL_MEGA = 'AQUI TU GMAIL' 
