@@ -1,0 +1,12 @@
+ujson
+pyTelegramBotAPI
+emoji
+requests
+chardet==3.*
+bs4
+multivolumefile
+youtube_dl
+telethon
+mega.py
+
+
