@@ -5,7 +5,7 @@ MAX_ZIP_SIZE = 98
 ACCES_USERS = ['nautaii', 'naruto0109', 'Soul_Octopus']
 CHAT_ID = '-1001666279733'
 URLMOODLE = 'https://moodle.uclv.edu.cu'
-CREDENTIALS = {'username':'amaguilar','password':'AL2+1425'}
+CREDENTIALS = {'username':'amaguilar','password':'Al2+1425'}
 CACHE = {}
 
 def getCache():
