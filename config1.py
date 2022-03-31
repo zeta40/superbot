@@ -2,10 +2,10 @@ from MoodleClient import MoodleClient
 
 BOT_TOKEN = '5187853556:AAFu7KhfXjJLqGlwm_M8ySdlkeHQV7h_neQ'
 MAX_ZIP_SIZE = 98
-ACCES_USERS = ['nautaii', 'O_O1000', 'Soul_Octopus']
+ACCES_USERS = ['nautaii', 'naruto0109', 'Soul_Octopus']
 CHAT_ID = '-1001666279733'
 URLMOODLE = 'https://moodle.uclv.edu.cu'
-CREDENTIALS = {'username':'alex01','password':'Perro@1234'}
+CREDENTIALS = {'username':'amaguilar','password':'AL2+1425'}
 CACHE = {}
 
 def getCache():
@@ -97,4 +97,3 @@ def createAccountCache(acc):
             CACHE[acc['username']] = {'userdata':{},'storage_size':0,'storage_current':0,'file_list':[],'credentials':{}}
 
 #createAccountsCache();
-

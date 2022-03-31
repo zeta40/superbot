@@ -5,10 +5,10 @@ OWNER = [1759969205]
 CHAT_ID = '-1001666279733'
 
 # DATOS DEL MOODLE
-USUARIO = 'alex01'
-MOODLE_PASSWORD = 'Perro@1234'
-USUARIO_ID = 19770 #Tu id
-ZIP_MB = 398
+USUARIO = 'amaguilar'
+MOODLE_PASSWORD = 'AL2+1425'
+USUARIO_ID = 2374 #Tu id
+ZIP_MB = 399
 MOODLE_URL = 'https://moodle.uclv.edu.cu'
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
