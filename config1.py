@@ -1,6 +1,6 @@
 from MoodleClient import MoodleClient
 
-BOT_TOKEN = '5187853556:AAFu7KhfXjJLqGlwm_M8ySdlkeHQV7h_neQ'
+BOT_TOKEN = '5203492957:AAH-fBPaEnE8oJy0NwKEJhr64lt0fV8hIEQ'
 MAX_ZIP_SIZE = 98
 ACCES_USERS = ['nautaii', 'naruto0109', 'Soul_Octopus']
 CHAT_ID = '-1001666279733'
