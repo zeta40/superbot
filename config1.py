@@ -1,11 +1,11 @@
 from MoodleClient import MoodleClient
 
-BOT_TOKEN = '5203492957:AAH-fBPaEnE8oJy0NwKEJhr64lt0fV8hIEQ'
+BOT_TOKEN = '5232504383:AAEc2LfEJHfvLol5QFhSsubXy7YbCmBv7LE'
 MAX_ZIP_SIZE = 98
-ACCES_USERS = ['nautaii', 'naruto0109', 'Soul_Octopus']
+ACCES_USERS = ['nautaii']
 CHAT_ID = '-1001666279733'
 URLMOODLE = 'https://moodle.uclv.edu.cu'
-CREDENTIALS = {'username':'amaguilar','password':'Al2+1425'}
+CREDENTIALS = {'username':'amaguilar' ','password':'Al2+1425'}
 CACHE = {}
 
 def getCache():

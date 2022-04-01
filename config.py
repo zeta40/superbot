@@ -1,11 +1,11 @@
-BOT_TOKEN = '5203492957:AAH-fBPaEnE8oJy0NwKEJhr64lt0fV8hIEQ' #token de tu bot
+BOT_TOKEN = '5232504383:AAEc2LfEJHfvLol5QFhSsubXy7YbCmBv7LE' #token de tu bot
 API_ID = 14681595 # lo creas en https://my.telegram.org/
 API_HASH = 'a86730aab5c59953c424abb4396d32d5'  # lo creas en https://my.telegram.org/
 OWNER = [1759969205]
 CHAT_ID = '-1001666279733'
 
 # DATOS DEL MOODLE
-USUARIO = 'amaguilar'
+USUARIO = 'amaguilar' '
 MOODLE_PASSWORD = 'Al2+1425'
 USUARIO_ID = 2374 #Tu id
 ZIP_MB = 399
